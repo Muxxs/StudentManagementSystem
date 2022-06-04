@@ -1,3 +1,7 @@
 # Student Management System
 with flask by python
-@copyright Muxxs
+
+未经允许不可转载
+unable to reprint without permission
+
+##@copyright Muxxs##
